@@ -1,0 +1,15 @@
+{
+  "keys": {
+    "command": {
+      "bind": {
+        "ctrl-o": "jupyter-notebook:clear-cell-output"
+      }
+    }
+  },
+  
+  "CodeCell": {
+    "cm_config": {
+        "indentUnit": 2
+    }
+  }
+}
