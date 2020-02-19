@@ -1,0 +1,7 @@
+# DOCKER
+alias di="docker images"
+alias drun="docker run"
+alias dstop="docker stop"
+alias dbuild="docker build"
+alias drmi="docker rmi"
+alias dps="docker ps"
