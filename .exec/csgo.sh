@@ -8,6 +8,8 @@ echo 'setup autoexec config ...'
 
 launch_options='+exec new_gnd -novid +snd_use_hrtf -nojoy 0 -threads 12 -refresh 144 -d3d9ex -tickrate 128 -high -no-browser -console -freq 144 -heapsize 4194304 +cl_forcepreload 1'
 
+# OS mouse sensitivity: 6/11
+
 config='
 sv_cheats 1
 
